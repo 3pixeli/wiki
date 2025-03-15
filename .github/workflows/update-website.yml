@@ -1,0 +1,39 @@
+name: Update Wiki Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-website:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout wiki repository
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    - name: Checkout wiki-website repository
+      uses: actions/checkout@v3
+      with:
+        repository: 3pixeli/wiki-website
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: wiki-website
+        ref: main
+
+    - name: Copy wiki files to wiki-website
+      run: |
+        rm -rf ./wiki-website/docs/*
+        cp -r ./docs/* ./wiki-website/docs/
+
+    - name: Commit and push changes to wiki-website
+      run: |
+        cd wiki-website
+        git add .
+        git commit -m "Update docs from wiki repo"
+        git push origin main

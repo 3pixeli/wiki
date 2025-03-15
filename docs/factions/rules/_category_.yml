@@ -1,0 +1,7 @@
+label: Regulamente
+position: 2
+collapsed: true
+link:
+  type: generated-index
+  slug: /factions/rules
+  # description: Regulamentele facțiunilor.
