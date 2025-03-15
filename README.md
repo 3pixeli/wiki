@@ -4,6 +4,16 @@ This repository contains the documentation of our server, anyone is welcome to c
 
 We internally use Docusaurus for generating the static website, you can learn more about formatting [here](https://docusaurus.io/docs/markdown-features).
 
+## Components
+  
+### Color
+```md
+# <Color fg="#FF00FF">lorem ipsum</Color>
+# <Color bg="#FF00FF">lorem ipsum</Color>
+# <Color fg="black" bg="white">lorem ipsum</Color>
+```
+![](https://kappa.lol/PN1oiV.png)
+
 ## License
 
 This work is licensed under a
