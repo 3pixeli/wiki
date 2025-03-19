@@ -1,15 +1,15 @@
 # Lumberjack
 
 ![Image](https://kappa.lol/oWRlHq) 
-> Odata ce ai luat job-ul de lumberjack, locatia job-ului este in imaginea alaturata. 
+> Odată ce ai luat job-ul de lumberjack, locația job-ului este în imaginea alăturată. 
 
 **ACEST JOB ESTE MULTIPLAYER!**
 
-Pentru a incepe job-ul vei fi nevoit sa urci pe trepte la locatia blip-ului din imagine, fie singur, fie cu alte persoane deoarece este un job multiplayer. Odata ce ai inceput, vei primi o autospeciala cu care vei putea sa te deplasezi, sa culegi bustenii si sa ii transporti inapoi la sediu pentru procesare
+Pentru a începe job-ul va trebui să urci pe trepte la locația blip-ului din imagine, fie singur, fie cu alte persoane deoarece este un job multiplayer. Odată ce ai început, vei primi o autospecială cu care vei putea să te deplasezi, să culegi buștenii și să îi transporți înapoi la sediu pentru procesare.
 
-Poti inceta job-ul oricand doresti prin a te intoarce inapoi la sediu. **NU APASA END JOB DACA NU AI TERMINAT DE PROCESAT SI VANDUT LEMNUL PROCESAT - NU VEI PRIMI REWARD** 
+Poți înceta job-ul oricând dorești prin a te întoarce înapoi la sediu. **NU APĂSA END JOB DACĂ NU AI TERMINAT DE PROCESAT ȘI VÂNDUT LEMNUL PROCESAT - NU VEI PRIMI RECOMPENSĂ** 
 
 ![Image](https://kappa.lol/YBYRpN) 
->Dupa ce ai procesat lemnele pe platforma prezentata in poza alaturata, pe harta vei avea locatia unde va trebui sa le transporti pentru a le vinde. **Reward-ul primit variaza in functie de numarul de lemne procesate.**
+> După ce ai procesat lemnele pe platforma prezentată în poza alăturată, pe hartă vei avea locația unde va trebui să le transporți pentru a le vinde. **Recompensa primită variază în funcție de numărul de lemne procesate.**
 
-Salariul pasiv este de: **$100/ora** (20min) 
+Salariul pasiv este de: **$100/oră** (20min)

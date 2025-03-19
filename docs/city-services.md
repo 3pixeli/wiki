@@ -15,5 +15,5 @@ Primăria orașului poate fi găsită la codul poștal **7248** sau **City Servi
 </details>
 
 - Intrând în primărie vei putea interacționa cu NPC-ul din City Hall folosind tasta `ALT`.
-- Deschizand meniul de *Employment*, te poți angaja la toate [joburile](/jobs).
+- Deschizând meniul de *Employment*, te poți angaja la toate [joburile](/jobs).
 ![NPC](https://kappa.lol/aetyYw.png)

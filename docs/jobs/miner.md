@@ -1,12 +1,12 @@
 # Miner
 
 ![Image](https://kappa.lol/MoToO-) 
-> Odata ce ai luat job-ul de miner, locatia job-ului este in imaginea precedenta. 
+> Odată ce ai luat job-ul de miner, locația job-ului este în imaginea precedentă. 
 
 **ACEST JOB ESTE MULTIPLAYER!**
 
-Dupa ce ai inceput job-ul in Lobby-ul cladirii, fie singur, fie cu alte persoane - va trebui sa te duci in *Locker Room* sa iti iei uniforma si dupa in *Storage Room* sa iti iei echipamentul. Odata echipat, vei putea intra in lift sa incepi job-ul. 
+După ce ai început job-ul în Lobby-ul clădirii, fie singur, fie cu alte persoane - va trebui să te duci în *Locker Room* să îți iei uniforma și după în *Storage Room* să îți iei echipamentul. Odată echipat, vei putea intra în lift să începi job-ul. 
 
-Poti inceta job-ul oricand doresti prin a te intoarce inapoi in lift si vei primi reward pe masura progresului facut. 
+Poți înceta job-ul oricând dorești prin a te întoarce înapoi în lift și vei primi recompensă pe măsura progresului făcut. 
 
-Salariul pasiv este de: **$100/ora** (20min) 
+Salariul pasiv este de: **$100/oră** (20min)

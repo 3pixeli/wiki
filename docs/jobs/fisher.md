@@ -1,20 +1,18 @@
 # Fisher
 
 ![Image](https://kappa.lol/_sRrpB) 
-> Odata ce ai luat job-ul de fisher, locatia job-ului este in imaginea alaturata. 
+> Odată ce ai luat job-ul de fisher, locația job-ului este în imaginea alăturată. 
 
-**ACEST JOB NU ESTE MULTIPLAYER! - DAR IL POTI PRACTICA CU ALTE PERSOANE SIMULTAN, FARA A IMPARTI PROGRESUL SI REWARD-URILE**
+**ACEST JOB NU ESTE MULTIPLAYER! - DAR ÎL POȚI PRACTICA CU ALTE PERSOANE SIMULTAN, FĂRĂ A ÎMPĂRȚI PROGRESUL ȘI RECOMPENSELE**
 
 ![Image](https://kappa.lol/kTMrt5)
->Dupa ce ai ajuns la locatie, va trebui sa vorbesti cu acest domn pentru a cumpara echipamentul de pescuit (ajunge o cutie de bait) pentru a putea incepe. 
+> După ce ai ajuns la locație, va trebui să vorbești cu acest domn pentru a cumpăra echipamentul de pescuit (ajunge o cutie de momeală) pentru a putea începe. 
 
-Odata ce ai cumparat echipamentul, poti sa te duci langa apa si sa echipezi undita pentru a incepe sa pescuiesti. 
+Odată ce ai cumpărat echipamentul, poți să te duci lângă apă și să echipezi undița pentru a începe să pescuiești. 
 
-Dupa ce ai adunat **10 pesti din aceasi specie**, vei putea sa te duci la masa din imagine pentru a prepara un cos si a putea vinde cosul cu pesti.
+După ce ai adunat **10 pești din aceeași specie**, vei putea să te duci la masa din imagine pentru a prepara un coș și a putea vinde coșul cu pești.
 ![Image](https://kappa.lol/gvpwMC)
 
- Vei putea incepe vanzarea vorbind din nou cu domnul mentionat anterior.  **Reward-ul variaza random de la o sesiune la alta!**
+Vei putea începe vânzarea vorbind din nou cu domnul menționat anterior. **Recompensa variază aleatoriu de la o sesiune la alta!**
 
-
-
-Salariul pasiv este de: **$50/ora** (20min) 
+Salariul pasiv este de: **$50/oră** (20min)
