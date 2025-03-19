@@ -1,4 +1,5 @@
 # Lumberjack
+Muncește în echipă pentru a tăia, procesa și vinde lemn pentru profit.
 
 ![Image](https://kappa.lol/oWRlHq) 
 > Odată ce ai luat job-ul de lumberjack, locația job-ului este în imaginea alăturată. 

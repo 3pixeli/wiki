@@ -1,4 +1,5 @@
 # Miner
+Echipează-te și coboară în mină pentru a extrage minerale valoroase.
 
 ![Image](https://kappa.lol/MoToO-) 
 > Odată ce ai luat job-ul de miner, locația job-ului este în imaginea precedentă. 

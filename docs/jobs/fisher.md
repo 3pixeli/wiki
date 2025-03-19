@@ -1,4 +1,5 @@
 # Fisher
+Pescuiește, prepară și vinde pești pentru a face bani într-un mod relaxant.
 
 ![Image](https://kappa.lol/_sRrpB) 
 > Odată ce ai luat job-ul de fisher, locația job-ului este în imaginea alăturată. 

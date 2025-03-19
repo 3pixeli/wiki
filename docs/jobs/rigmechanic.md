@@ -1,4 +1,5 @@
 # Rig Mechanic
+Lucrează pe platforma petrolieră pentru a extrage și procesa petrol în echipă.
 
 ![Image](https://kappa.lol/tk2kbi) 
 > Odată ce ai luat job-ul de Rig Mechanic, locația job-ului este în imaginea alăturată. 

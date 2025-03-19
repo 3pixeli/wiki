@@ -1,4 +1,5 @@
 # G6 Security Officer
+Transportă bani între bănci și ATM-uri într-un vehicul blindat, dar ai grijă la jefuitori.
 
 ![Image](https://kappa.lol/biDAw4) 
 > Odată ce ai luat job-ul de Gruppe Sechs, locația job-ului este în imaginea alăturată. 
