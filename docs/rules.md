@@ -2,6 +2,7 @@
 slug: /rules
 sidebar_position: 2
 title: Regulament
+description: Regulament general 3 Pixeli Roleplay.
 ---
 
 # Regulament General
