@@ -20,3 +20,5 @@ Pentru a face asta, va trebui sa te urci in masina si sa tii apasata tasta F1 pe
 * **NPC Mission** - jocul iti va oferi un NPC pe care sa il transporti pe o distanta random - odata ce apesi, vei primi automat un waypoint catre NPC. 
 
 > Cand ajungi la NPC si apesi tasta E ca sa incepi cursa, sau sa o termini odata ajuns la destinatie, e posibil ca sa nu reusesti din prima asa ca ai grija sa pozitionezi masina cat de mult posibil in mijlocul blip-ului de pe minimap cand incerci din nou. 
+
+Salariul pasiv este de: **$50/ora** (20min)

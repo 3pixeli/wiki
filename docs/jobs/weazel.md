@@ -10,6 +10,4 @@ De asemenea, desi nu aveti lucruri specifice de facut cu acest job, puteti sa va
 
 ![Image](https://kappa.lol/v63LF-)
 
-Salariul pasiv este de: 
-* **$50/ora** - Taxi (20min) 
-* **$100/ora** - News Reporter (20min) 
+Salariul pasiv este de: **$100/ora** (20min) 
