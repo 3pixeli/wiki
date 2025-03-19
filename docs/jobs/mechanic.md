@@ -1,3 +1,0 @@
-# Mecanic
-
-Jobul de mecanic se găsește...
