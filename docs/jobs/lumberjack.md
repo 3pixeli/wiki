@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Lumberjack
 
 ![Image](https://kappa.lol/oWRlHq) 

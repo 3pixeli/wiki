@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Fisher
 
 ![Image](https://kappa.lol/_sRrpB) 

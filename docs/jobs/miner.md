@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Miner
 
 ![Image](https://kappa.lol/MoToO-) 

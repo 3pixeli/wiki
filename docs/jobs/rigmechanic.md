@@ -1,7 +1,3 @@
----
-sidebar_position: 6
----
-
 # Rig Mechanic
 
 ![Image](https://kappa.lol/tk2kbi) 

@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # G6 Security Officer
 
 ![Image](https://kappa.lol/biDAw4) 

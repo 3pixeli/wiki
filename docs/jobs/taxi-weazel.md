@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # Taxi & News Reporter
 
 ![Image](https://kappa.lol/S4teZs) 
