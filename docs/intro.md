@@ -6,6 +6,6 @@ title: Introducere
 
 # Bun venit pe wiki-ul 3 Pixeli!
 
-blablablablablahalbah
+Aici vei gasi informațiile de care ai nevoie cu privire la funcționalitatea sistemelor din joc.
 
-![smile](https://kappa.lol/9_O4rK.gif)
+Dacă ai nevoie de ajutor, nu ezita să consulți acest wiki sau să întrebi în comunitatea noastră accesand serverul de Discord!
