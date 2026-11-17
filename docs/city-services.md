@@ -8,12 +8,12 @@ title: Primărie
 
 <details>
 <summary>
-Primăria orașului poate fi găsită la codul poștal **7248** sau **City Services** pe GPS.
+Primăria orașului poate fi găsită la **City Services** pe GPS.
 </summary>
 
-![GPS](https://kappa.lol/rtYesx.png)
+![GPS](https://kappa.lol/dnxQAH.png)
 </details>
 
 - Intrând în primărie vei putea interacționa cu NPC-ul din City Hall folosind tasta `ALT`.
 - Deschizând meniul de *Employment*, te poți angaja la toate [joburile](/jobs).
-![NPC](https://kappa.lol/aetyYw.png)
+![NPC](https://kappa.lol/coBh6g.png)
