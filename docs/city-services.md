@@ -11,8 +11,10 @@ title: Primărie
 Primăria orașului poate fi găsită la **City Services** pe GPS.
 </summary>
 
-![GPS](https://kappa.lol/dnxQAH.png)
 </details>
+
+![GPS](https://kappa.lol/dnxQAH.png)
+
 
 - Intrând în primărie vei putea interacționa cu NPC-ul din City Hall folosind tasta `ALT`.
 - Deschizând meniul de *Employment*, te poți angaja la toate [joburile](/jobs).
