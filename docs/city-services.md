@@ -6,12 +6,11 @@ title: Primărie
 
 # Primărie
 
-<details>
+
 <summary>
-Primăria orașului poate fi găsită la **City Services** pe GPS.
+Primăria orașului poate fi găsită la **City Services** pe <u>GPS</u>.
 </summary>
 
-</details>
 
 ![GPS](https://kappa.lol/dnxQAH.png)
 
