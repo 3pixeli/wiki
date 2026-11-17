@@ -1,19 +1,17 @@
 # Fisher
-Pescuiește, prepară și vinde pești pentru a face bani într-un mod relaxant.
 
-![Image](https://kappa.lol/_sRrpB) 
-> Odată ce ai luat job-ul de fisher, locația job-ului este în imaginea alăturată. 
+**Te intereseaza pescuitul?** 
+>Lacurile, raurile is oceanul va stau la dispozitie pentru momente de relaxare in natura.
 
-**ACEST JOB NU ESTE MULTIPLAYER! - DAR ÎL POȚI PRACTICA CU ALTE PERSOANE SIMULTAN, FĂRĂ A ÎMPĂRȚI PROGRESUL ȘI RECOMPENSELE**
+Achizitionarea de articole de pescuit se face in portul Alamo Sea de la Sherman, tot aici se poate inchiria o barca. 
+![Image](https://kappa.lol/DASqek.png)
+<!-- picture of sherman/shop, show where boat spawns -->
 
-![Image](https://kappa.lol/kTMrt5)
-> După ce ai ajuns la locație, va trebui să vorbești cu acest domn pentru a cumpăra echipamentul de pescuit (ajunge o cutie de momeală) pentru a putea începe. 
+Fiercare cumparator are specialitatea sa, prin urmare si interesul in a achizitiona numai o selectie de pesti. Ei cumpara numai la Kilogram *ca la piata*.
+>Ei sunt marcati pe harta cu carligul de culoare verde si albastru
 
-Odată ce ai cumpărat echipamentul, poți să te duci lângă apă și să echipezi undița pentru a începe să pescuiești. 
+<!-- insert picture of a few locations marked/highlighted -->
 
-După ce ai adunat **10 pești din aceeași specie**, vei putea să te duci la masa din imagine pentru a prepara un coș și a putea vinde coșul cu pești.
-![Image](https://kappa.lol/gvpwMC)
+Deasemenea fiecare cumparator iti poate oferi un zvon, despre locatii unde pestii sunt in numar mare. Nu uita ca odata cu trecerea timpului, pestii urmeaza un ciclu al vietii.
 
-Vei putea începe vânzarea vorbind din nou cu domnul menționat anterior. **Recompensa variază aleatoriu de la o sesiune la alta!**
-
-Salariul pasiv este de: **$50/oră** (20min)
+>Sa nu uitati sa va scoatety licenta in format fizic de la [Primarie](/city-services).

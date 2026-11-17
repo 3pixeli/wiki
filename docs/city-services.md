@@ -16,5 +16,5 @@ Primăria orașului poate fi găsită la **City Services** pe <u>GPS</u>.
 
 
 - Intrând în primărie vei putea interacționa cu NPC-ul din City Hall folosind tasta `ALT`.
-- Deschizând meniul de *Employment*, te poți angaja la toate [joburile](/jobs).
+- Deschizând meniul de *Employment*, te poți angaja la toate [joburile](/jobs) sau de pe telefon in aplicatia *Jobs*
 ![NPC](https://kappa.lol/coBh6g.png)
