@@ -1,8 +1,12 @@
 # Fisher
 
 **Te intereseaza pescuitul?** 
+<details>
 >Lacurile, raurile is oceanul va stau la dispozitie pentru momente de relaxare in natura.
+
 ![Image](https://kappa.lol/DASqek.png)
+
+</details>
 <!-- pic of the gps loc -->
 
 Achizitionarea de articole de pescuit se face in portul Alamo Sea de la Sherman, tot aici se poate inchiria o barca. 
